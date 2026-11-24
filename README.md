@@ -1,5 +1,5 @@
 # Calculator App
- About the Project
+ .About the Project
 Calculator App is a simple calculator developed using Python.
 It performs basic mathematical operations.
 
