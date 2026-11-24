@@ -1,4 +1,4 @@
-# Python Calculator App
+# Calculator-App
 
 ## About
 A simple calculator built using Python to perform basic mathematical operations.
