@@ -11,7 +11,7 @@ A simple calculator built using Python to perform basic mathematical operations.
 
 ## How to Run
 ```bash
-python calculator.py
+calculator.py
 ```
 
 ## Author
